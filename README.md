@@ -1,7 +1,7 @@
 ControlStrangeAttractor
 =======================
 
-![Curl Noise Render](https://github.com/fumianzai/ControlStrangeAttractor/blob/master/README.md)
+![Curl Noise Render](http://creatorshigh.com/blog/wp-content/uploads/aa1.png)
 
 ###NOTE :  
 this is C4D project.  
