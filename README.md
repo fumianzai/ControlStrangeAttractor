@@ -10,6 +10,6 @@ A Python effector for creating strange attractor animation in CINEMA 4D.
 ###VIDEO:  
 https://vimeo.com/99462444
 
-##[Date Download](http://bit.ly/12fJiwe)
+####[Date Download](https://github.com/fumianzai/ControlStrangeAttractor/archive/master.zip)
 
 
